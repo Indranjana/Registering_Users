@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: indranjana
+  name: Indranjana
   annotations:
     github.com/user-id: "214480286"
 spec:
